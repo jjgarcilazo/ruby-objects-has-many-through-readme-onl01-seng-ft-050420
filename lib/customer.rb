@@ -36,3 +36,4 @@ jason.best_tipper => <Customer:0x00007f80829959a8 @name="Lisa", @age=24>
 jason.best_tipper.name => "Lisa"
 end
 end
+end
